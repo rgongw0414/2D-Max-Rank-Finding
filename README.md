@@ -1,6 +1,6 @@
-### 2D-Max-Rank-Finding Algorithm
+## 2D-Max-Rank-Finding Algorithm
 
-##### Algorithm practice
+### Algorithm practice
 
 將N組座標以Quicksort整理後，輸出max coordinates以及biggest y-value in SR <br> 
 
